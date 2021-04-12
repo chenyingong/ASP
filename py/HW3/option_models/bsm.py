@@ -13,12 +13,13 @@ def price(strike, spot, texp, vol, intr=0.0, divr=0.0, cp_sign=1):
     div_fac = np.exp(-texp*divr)
     disc_fac = np.exp(-texp*intr)
     forward = spot / disc_fac * div_fac
+    forward = forward[:, None]  # vectorize this function
 
     if( texp<=0 ):
         return disc_fac * np.fmax( cp_sign*(forward-strike), 0 )
     
     # floor vol_std above a very small number
-    vol_std = np.fmax(vol*np.sqrt(texp), 1e-32)
+    vol_std = np.fmax(vol*np.sqrt(texp), 1e-32)[:, None]
     
     d1 = np.log(forward/strike)/vol_std + 0.5*vol_std
     d2 = d1 - vol_std
