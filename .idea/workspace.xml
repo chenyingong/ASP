@@ -3,14 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="94fbd3fb-66f9-4378-a342-faa76d60599d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/BsmNdMc_Demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py/BsmNdMc_Demo.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/Demo_Advanced_Import.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/Demo_Advanced_Import.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/Demo_GHQ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/Demo_GHQ.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/TestCode_SABR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/TestCode_SABR.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/option_models/bsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/option_models/bsm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/option_models/normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/option_models/normal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/HW3/option_models/sabr.py" beforeDir="false" afterPath="$PROJECT_DIR$/py/HW3/option_models/sabr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py/SabrModel_Demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py/SabrModel_Demo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ASP_Problems.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/ASP_Problems.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ImpVol.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/ImpVol.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/SABRmodel.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/SABRmodel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/SV_Simulation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/SV_Simulation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/SpreadBasketOption.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/SpreadBasketOption.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,10 @@
       <workItem from="1616984077767" duration="959000" />
       <workItem from="1616985231608" duration="17740000" />
       <workItem from="1618207433388" duration="14621000" />
-      <workItem from="1618223218966" duration="8612000" />
+      <workItem from="1618223218966" duration="9206000" />
+      <workItem from="1618716911457" duration="3060000" />
+      <workItem from="1618806816903" duration="660000" />
+      <workItem from="1618913140711" duration="31000" />
     </task>
     <servers />
   </component>
